@@ -1,5 +1,7 @@
 {
   "name": "local-notifications-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
